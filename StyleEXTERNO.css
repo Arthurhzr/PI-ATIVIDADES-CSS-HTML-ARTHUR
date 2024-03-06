@@ -1,0 +1,31 @@
+
+.div_A {
+    height: 600px; 
+    width: 800px; 
+    background-color: #04214a;
+}
+
+.div_b {
+    background-color: #fffb00; 
+    height: 70%; 
+    width: 40%;
+}
+
+.div_c {
+    height: 70vh; 
+    width: 60%; 
+    background-color: rgb(199, 125, 6);
+}
+
+.h1{
+    background-color: rgb(252, 136, 136); 
+    color: #2ebbb0; 
+    font-size: 30px; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.div_d {
+    width: 70vw; 
+    height: 80; 
+    background-color: rgb(7, 67, 105);
+}
